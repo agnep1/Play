@@ -1,0 +1,3 @@
+#Bandymas
+##Pasikartojam 
+kaip naudotis

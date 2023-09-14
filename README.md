@@ -1,5 +1,7 @@
 # Bandymas
 
-## Pasikartojam 
+## Pasikartojam
 
 kaip naudotis
+
+Bandom pridėti kažką iš editoriaus

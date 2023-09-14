@@ -1,5 +1,5 @@
-#Bandymas
+# Bandymas
 
-##Pasikartojam 
+## Pasikartojam 
 
 kaip naudotis
